@@ -48,7 +48,7 @@
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 */
 
-// This is a C program that should be run in the command line with arguments of the form: "1 2 3 ..", where A[] = {1, 2, 3, ..} is an array of N integers fulfilling the above coniditions.
+// This is a C program that should be run in the command line with arguments of the form: "1 2 3 ..", where A[] = {1, 2, 3, ..} is an array of N integers fulfilling the above conditions.
 
 #include <stdio.h>
 #include <stdlib.h>
