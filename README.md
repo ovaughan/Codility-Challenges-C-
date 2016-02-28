@@ -1,6 +1,6 @@
 # Codility-Challenges-C-
 My solutions to the programming challenges set by codility.com. Solutions are written in C. 
-All programs pass the Codility challenges with 100% correctness and 100% perormance.
+All programs pass the Codility challenges with 100% correctness and 100% performance.
 
 Some of the solutions are fully executable C programs. 
 These should be executed in the command line. In some cases extra arguments are needed.
